@@ -306,3 +306,8 @@ legend {
   border-radius: 8px;
   border: 0px;
 }
+
+.footer input:hover {
+  cursor: pointer;
+  color: #a5483e;
+}
