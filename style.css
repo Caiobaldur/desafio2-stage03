@@ -309,5 +309,5 @@ legend {
 
 .footer input:hover {
   cursor: pointer;
-  color: #a5483e;
+  background: #a5483e;
 }
